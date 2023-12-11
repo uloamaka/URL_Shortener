@@ -1,2 +1,2 @@
 # URL_Shortener
-A complete url_shortener Api hoisted on cloudflare 
+A complete url_shortener Api hosted on render (CDN with cloudflare) 
